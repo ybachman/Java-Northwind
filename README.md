@@ -15,6 +15,6 @@ Employee birthdays in a searched year.
 
 It is suggested that a user have the Database open during execution and testing of the program, so they know what to search for. Some test examples to search for which are in the database:
 
-Order numbers: 10248, 10249, 10250, 10251 ....... All the way to 11077.
-State Abbreviations: BC, SP, DF, RJ, OR, WA, CA, AK, NM, ID, WY, MT, Lara, Nueva Esparta
+Order numbers: 10248, 10249, 10250, 10251 ....... All the way to 11077<br>
+State Abbreviations: BC, SP, DF, RJ, OR, WA, CA, AK, NM, ID, WY, MT, Lara, Nueva Esparta<br>
 Years: 1952, 1955, 1960, 1963, 1968, 1969
