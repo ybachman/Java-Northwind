@@ -1,7 +1,7 @@
 # Java-Northwind
 A simple program which pulls information from the Northwind Database using SQL coded into the source, and displays the data in a table view using GUI.
 
-Important Note: The Northwind database is included in the project folder. In order to run this program, you will either have to change the file path at line 187, or create a folder in your C: dive called Data and put the file into that folder.
+Important Note: The Northwind database is included in the project folder. In order to run this program, you will either have to change the file path at line 187, or create a folder in your C: dive called "Data" and put the database file into that folder.
 
 Upon startup, the program connects to the Northwind databse with a JDBC driver.
 
